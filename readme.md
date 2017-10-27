@@ -2,4 +2,7 @@
 Este es mi repositorio de prueba.
 
 * Karla Castro
-*Bryan Tutive
+* Bryan Tutiven
+* Gustavo Sabando
+
+Grupo 4 - Programación Orientada a Objetos 
